@@ -8,9 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Flightbookingsystem 1.1</title>
 </head>
 <body>
-test
+
+    <h1>nee</h1>
 </body>
 </html>
